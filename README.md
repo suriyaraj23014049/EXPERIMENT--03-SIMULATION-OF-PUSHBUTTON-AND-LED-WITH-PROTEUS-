@@ -79,10 +79,12 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 
+ <img width="1414" height="978" alt="image" src="https://github.com/user-attachments/assets/93db8a34-73a1-42bf-bed3-93db5bc8aaf6" />
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
  
+ <img width="1414" height="978" alt="image" src="https://github.com/user-attachments/assets/93db8a34-73a1-42bf-bed3-93db5bc8aaf6" />
  
  
 ## Result :
